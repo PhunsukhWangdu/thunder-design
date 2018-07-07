@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/PhunsukhWangdu/thunder-design/issues"
   },
-  "homepage": "https://github.com/PhunsukhWangdu/thunder-design#readme"
+  "homepage": "https://github.com/PhunsukhWangdu/thunder-design#readme",
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
